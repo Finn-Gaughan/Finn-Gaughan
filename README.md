@@ -3,7 +3,7 @@
 
 ### accounts
 - domain name:
-- Linked in:
+- Linked in: linkedin.com/in/finn-gaughan-24b25831a
 - Linktree:
 - portfolio website: 
 - YouTube:
@@ -11,7 +11,7 @@
 - instagram:
 - discord:
 - reddit:
-- github: 
+- github: https://github.com/Finn-Gaughan
 
 ### Very rarely active on:
 - facebook
