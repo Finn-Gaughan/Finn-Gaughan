@@ -14,8 +14,8 @@
 - github (wip): https://github.com/Finn-Gaughan
 
 ### Very rarely active on:
-- facebook
-- X:
+- facebook: reserved
+- X: reserved
 - twitch
 - patreon
 - ko fi
