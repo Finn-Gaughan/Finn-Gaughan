@@ -10,7 +10,7 @@
 - gmail: hidden for now
 - instagram (wip): @finn.gaughan
 - discord (wip): finn.gaughan
-- reddit: 
+- reddit (wip): finn_gaughan
 - github (wip): https://github.com/Finn-Gaughan
 
 ### Very rarely active on:
