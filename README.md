@@ -6,7 +6,7 @@
 - Linked in: linkedin.com/in/finn-gaughan-24b25831a
 - Linktree (work in progress): https://linktr.ee/Finn.Gaughan
 - portfolio website: None
-- YouTube: 
+- YouTube: reserved
 - gmail: hidden for now
 - instagram (wip): @finn.gaughan
 - discord (wip): finn.gaughan
@@ -16,8 +16,8 @@
 ### Very rarely active on:
 - facebook: reserved
 - X: reserved
-- twitch
-- patreon
+- twitch: reserved
+- patreon: reserved
 - ko fi
 - telegram
 - hashnode
