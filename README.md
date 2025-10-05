@@ -12,6 +12,7 @@
 - discord (wip): finn.gaughan
 - reddit (wip): finn_gaughan
 - github (wip): https://github.com/Finn-Gaughan
+- 
 
 ### Very rarely active on:
 - facebook: reserved
@@ -25,6 +26,7 @@
 - medium
 - gitlab
 - bitbucket
+- letterboxed: reserved
 
 
 ### Do not have an account in the following yet:
