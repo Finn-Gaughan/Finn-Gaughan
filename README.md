@@ -19,7 +19,7 @@
 - X: reserved
 - twitch: reserved
 - patreon: reserved
-- ko fi
+- ko fi: reserved
 - telegram
 - hashnode
 - dev.to
