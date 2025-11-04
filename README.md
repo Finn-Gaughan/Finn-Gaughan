@@ -1,12 +1,12 @@
 # This page is a work in progress, should not be used
 
-### something
+### Links
 - Linked in: linkedin.com/in/finn-gaughan-24b25831a
-- YouTube: 
-- gmail: 
-- instagram: @finn.gaughan
-- discord: finn.gaughan
-- github: https://github.com/Finn-Gaughan
+- Discord: finn.gaughan
+- Github: https://github.com/Finn-Gaughan
+- Gmail: 
+- Instagram: @finn.gaughan
+
 
 
 <!--
