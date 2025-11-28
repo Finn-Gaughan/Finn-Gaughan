@@ -5,7 +5,7 @@
 - Instagram: @finn.gaughan
 
 Reach out to me via my email alias: glow_array_4e@icloud.com
-(I don't display my actual gmail here.)
+(I don't display my actual gmail here for obvious reasons.)
 
 <!--
 **Finn-Gaughan/Finn-Gaughan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
