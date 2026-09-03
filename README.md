@@ -3,7 +3,7 @@
 - Discord: finn.gaughan
 - Github: https://github.com/Finn-Gaughan
 
-Reach out to me via my email alias: glow_array_4e@icloud.com
+Reach out to me via my email alias: v1fro4f0@anonaddy.me
 (I don't display my actual gmail here for obvious reasons.)
 
 <!--
