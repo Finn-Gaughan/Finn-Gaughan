@@ -2,7 +2,7 @@
 - Linked in: https://linkedin.com/in/finn-gaughan-24b25831a
 - Discord: finn.gaughan
 - Github: https://github.com/Finn-Gaughan
-- YouTube: https://www.youtube.com/channel/UCNXLT9bvLEeLbQW_qafxHZA
+- YouTube: https://www.youtube.com/@FinnGaughan
 
 Reach out to me via my email alias: v1fro4f0@anonaddy.me
 (I don't display my actual gmail here for obvious reasons.)
